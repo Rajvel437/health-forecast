@@ -3,3 +3,6 @@ Gunicorn
 scikit-learn
 joblib
 lime
+pandas
+numpy
+random
